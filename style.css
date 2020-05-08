@@ -2,56 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
-/* .PIAC{
-    background-color: blue;
-    height: 55px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    flex-wrap: wrap;
-} */
-/* .sticky-top{
-    position: sticky;
-    position: relative;
-} */
-/* .icon{
-    display: flex;
-    justify-content: center;
-    flex: 1;
-}
-.icon i{
-    color: #fff;
-    margin-top: 20px ;
-    margin-left: 45px;
-}
-.paragraph{
-    flex: 2;
-    margin-top: 15px;
-}
 
-.paragraph,.high{
-    color: #000;
-    text-decoration: none;
-}
-.button{
-    display: flex;
-    justify-content: center;
-    flex: 1;
-    margin-right: 15px;
-    padding-top: 12px;
-
-}
-
-button{
-    width: 100px;
-    height: 30px;
-}
-button a{
-    list-style-type: none ;
-    text-decoration: none;
-    color: green;
-} */
-    /* border: 1px solid #000; */
 .mid{
     text-align: center;
     color: white;
@@ -62,9 +13,7 @@ button a{
 .color{
     background-color:royalblue;
     }
-    /* .nav123{
-        position: sticky;
-    } */
+
     i{
     width: 20px;
     }
@@ -110,11 +59,9 @@ i{
     display: flex;
     flex: 1;
     justify-content: center;
-    /* border: 1px solid black; */
 }
 .picture img{
     margin-right: 130px;
-    /* margin-top: 30px; */
     width: 200px;
     height: 60px;
 }
@@ -122,7 +69,6 @@ i{
     display: flex;
     flex: 2;
     justify-content: center;
-    /* border: 1px solid black; */
 
 }
 .nav-icon ul li{
@@ -160,11 +106,9 @@ i{
     display: flex;
     flex: 1;
     justify-content: center;
-    /* border: 1px solid black; */
 }
 .picture img{
     margin-right: 130px;
-    /* margin-top: 30px; */
     width: 200px;
     height: 60px;
 }
@@ -172,7 +116,6 @@ i{
     display: flex;
     flex: 2;
     justify-content: center;
-    /* border: 1px solid black; */
 
 }
 .nav-icon ul li{
@@ -214,7 +157,6 @@ i{
 .round{
     padding-top: 70px;
     padding-bottom: 70px;
-    /* margin-top: 120px; */
     background-color:royalblue ;
 }
 .colhe img{
@@ -223,14 +165,6 @@ i{
     margin-left: 30px;
 }
 
-/* p.para1{
-    text-align: center;
-    margin-top: 30px;
-} */
-/* .crop{
-    font-size: 50px;
-    margin-right: 40px;
-} */
 .poop{
     font-size: 65px;
     color: #fff;
@@ -258,10 +192,6 @@ i{
     font-size: 50px;
     margin-right: 50px;
 }
-/* .para31{
-    font-size: 19px;
-    color: white;
-} */
 
 .container-fluid h1{
     text-align: center;
@@ -277,9 +207,7 @@ i{
     margin-top: 60px;
 }
 .cl5{
-    /* color: antiquewhite; */
     box-shadow: 0px 0px 10px rgb(95, 94, 94);
-    /* border-radius: 10px; */
 }
 .tons{
     padding-top: 30px;
@@ -293,9 +221,7 @@ i{
     font-size: 20px;
     padding-bottom: 30px;
 }
-/* .wor1{
-    margin-top: 100px;
-} */
+
 .wor2{
     color: royalblue;
     font-size: 25px;
@@ -310,7 +236,6 @@ i{
     border-radius: 10px;
 }
 .flow{
-    /* background-color: black; */
     font-size: 30px;
     width: 50px;
     border-radius: 10px;
@@ -320,7 +245,6 @@ i{
     margin-left: 16px;
 }
 .flow1{
-    /* background-color: black; */
     font-size: 30px;
     width: 50px;
     border-radius: 10px;
@@ -332,7 +256,6 @@ i{
 .fowln{
     margin-top: 30px;
     margin-bottom: 20px;
-    /* background-color: black; */
     font-size: 30px;
     width: 40px;
     border-radius: 10px;
@@ -342,7 +265,6 @@ i{
 
 .fowl{
     margin-top: 20px;
-    /* background-color: black; */
     font-size: 30px;
     width: 60px;
     border-radius: 10px;
@@ -350,10 +272,7 @@ i{
     margin-right: 18px;
     margin-bottom: 20px;
 }
-/* .high2{
-    margin-top: 20px;
-    margin-bottom: 20px;
-} */
+
 .flow2{
     font-size: 20px;
     font-weight: bold;
@@ -365,30 +284,7 @@ i{
     color:rgb(47, 47, 211) ;
     margin-right: 50px;
 }
-/* .top{
-    padding-top: 30px;
-} */
 
-/* .image1{
-    margin-right: 1px;
-    margin-left: auto;
-}
-.image2,.image3,.image4{
-    margin-right: 1px;
-    margin-left: 1px;
-} */
-/* .image3{
-    margin-right: 1px;
-    margin-left: 1px;
-}
-.image4{
-    margin-right: 1px;
-    margin-left: 1px;
-} */
-/* .image5{
-    margin-left: 1px;
-    margin-right: auto;
-} */
 .image-size img{
     margin-top: 10px;
     width: 220px;
@@ -405,30 +301,7 @@ i{
 .flop h2 span{
     color: greenyellow;
 }
-/* .pendu{
-    margin-top: 50px;
-} */
-/* .top{
-    margin-top: 50px;
-}
-.top1{
-    margin-top: 15px;
-} */
-/* }
-.logo{
-    color:rgb(47, 47, 211) ;
-}
-.logo1{
-    color:green ;
-} */
 
-/* .font{
-    font-size: 40px;
-}
-.icon{
-    width: 50px;
-    height: 50px;
-} */
 
 .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
     width: 100%;
@@ -439,8 +312,6 @@ i{
 }
 .focolor {
     background-color: #000;
-    /* width: 120%; */
-    /* height: 80vh; */
     color: lightgrey;
 }
  .row { 
@@ -450,9 +321,7 @@ i{
     margin-right: -15px;
     margin-left: -15px;
 }
-/* .mtopbottom {
-    margin-top: 50px;
-} */
+
 .coloho {
     padding-top: 60px;
     font-size: 12px;
@@ -460,16 +329,7 @@ i{
     margin-left: 50px;
     margin-bottom: 50px;
 }
-/* .col-sm-3{
-    position: relative;
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-} */
-/* .boradar {
-    margin-bottom: 0px;
-    margin-left: 10px;
-} */
+
 p {
     margin-top: 0;
     margin-bottom: 1rem;
@@ -489,11 +349,8 @@ i {
 }
 .highlight2{
     padding-top: 30px;
-    /* border: 2px solid #fff; */
 }
 h5{
-    /* margin-bottom: 4em; */
-    /* font-weight: 500; */
     font-size: 18px;
     line-height: 1.2;
     margin-left:20px;
@@ -514,15 +371,11 @@ h5{
 a {
     color: #007bff;
     text-decoration: none;
-    /* background-color: blue; */
 }
 .top-inner{
     margin-top: 50px;
 }
-/* .foot p{
-    margin-top: 30px;
-    margin-left: 20px;
-} */
+
 
 
 
